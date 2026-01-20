@@ -2,7 +2,7 @@ import express from "express";
 import connectDB from "./connection/db.ts";
 
  
-
+ 
 const app = express();
 const PORT = 8000;
 
